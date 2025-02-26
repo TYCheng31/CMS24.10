@@ -1,4 +1,5 @@
 # CMS24.10  
+## 刪除單一使用者繳交紀錄  
 ```  
 sudo cmsRemoveSubmissions -c 8 -u S01  
 ``` 
